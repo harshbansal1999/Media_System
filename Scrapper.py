@@ -118,14 +118,14 @@ def recommendations(title):
 # In[24]:
 
 
-firebaseConfig = {'apiKey': "AIzaSyBXO5doO7OaUCBl89OAD_GOve1_W--Zxbw",
-                  'authDomain': "mediascrapper-13ce5.firebaseapp.com",
-                  'projectId': "mediascrapper-13ce5",
-                  'storageBucket': "mediascrapper-13ce5.appspot.com",
-                  'messagingSenderId': "10842217782",
-                  'appId': "1:10842217782:web:a00ef6a519df7654c1a797",
-                  'measurementId': "G-WF1WV22SNR",
-                  'databaseURL': "https://mediascrapper-13ce5-default-rtdb.firebaseio.com/"}
+firebaseConfig = {'apiKey': "x",
+                  'authDomain': "x",
+                  'projectId': "x",
+                  'storageBucket': "x",
+                  'messagingSenderId': "x",
+                  'appId': "x",
+                  'measurementId': "x",
+                  'databaseURL': "x"}
 
 firebase = pyrebase.initialize_app(firebaseConfig)
 db=firebase.database()
