@@ -1,20 +1,19 @@
 # Media_System
 
-Scrapping the details of input provided. The input can be movie, tv show, anime, movie star etc It will scrape all details about them. It also provides episode guide for the input tv shows in which specify details of each aired episode
+Scrapping the details of input provided. The input can be any movie, tv show, anime, movie star etc It will scrape all details related to it. 
 
 Project also contains a recommendation system which will recommend movies on basis of overview. It will recommend movies which have similiar plot
 
-Project also has chatbot. Using that user can ask for data.
+Project also has chatbot for user interactiong. User can interact with chatbot and ask for the details on any movie, show etc. Chatbot will direct the user to menu bar.
 
-The final output will provide title, details about shows, air date, episode number, number of episodes, user reviews, poster, episode guide, number of seasons, facts, awards won, star cast and creator etc
+Data is being stored and fetched through firebase.
 
-Data is stored in firebase and fetched from there whenver required
-
-Detailed analysis with visualization of backend with clustering and market basket analysis.
+Detailed analysis with visualization of stored data in firebase with clustering and market basket analysis.
 
 Tech Stack - 1. Python
              2. NLP
              3. Web Scrapping
              4. Machine Learning
              5. Firebase
+             6. Deep Learning
              
